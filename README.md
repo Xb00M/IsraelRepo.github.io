@@ -1,1 +1,1 @@
-# IsrealRepo.github.io
+# IsraelRepo.github.io
